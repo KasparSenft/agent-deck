@@ -1,5 +1,5 @@
 def main():
-    print("Hello from omnideck!")
+    print("Hello from agent-deck!")
 
 
 if __name__ == "__main__":

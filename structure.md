@@ -1,7 +1,7 @@
 # Project Structure
 
 ```
-OmniDeck/    
+agent-deck/    
 ├──  src/
 │   ├── /games/                      
 │   │   ├── base_game.py             # Abstract base class for all games
